@@ -34,9 +34,9 @@ I really enjoy learning new things and creating websites, as well as work in Wor
 [<img src='https://cdn.simpleicons.org/github/ffc124' alt='github' height='40'>](https://github.com/SergioChizhikov) [<img src='https://cdn.simpleicons.org/youtube/ffc124' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCYnxIB9mCubB_3LBSvqBwOA)
 [<img src='https://cdn.simpleicons.org/icloud/ffc124' alt='website' height='40'>](https://napli.ru)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioChizhikov&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats-sergiochizhikov.vercel.app/api?username=SergioChizhikov&show_icons=true&count_private=true&theme=dark)
 
-![Profile views](https://gpvc.arturio.dev/SergioChizhikov)
+
 <br/>
 
 📕 &nbsp; **Latest Blog posts**
