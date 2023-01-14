@@ -42,4 +42,9 @@ I really enjoy learning new things and creating websites, as well as work in Wor
 📕 &nbsp; **Latest Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [FFmpeg. Незаменимый «швейцарский ножик» в вашем арсенале.](https://napli.ru/ffmpeg-multimedia-framework/)
+- [Установка и настройка Git, Node JS](https://napli.ru/gitnodejs/)
+- [Плагины VS Сode. Что помогает в работе с редактором от Microsoft?](https://napli.ru/vscode_plugins_for_job/)
+- [Взаимодействие PHP и MySQL. Подключение к базе данных MySQL.](https://napli.ru/php-mysql-connecting-to-mysql-database/)
+- [DevTools — очень полезная штука для разработчика.](https://napli.ru/devtools-very-useful-for-developers/)
 <!-- BLOG-POST-LIST:END -->
