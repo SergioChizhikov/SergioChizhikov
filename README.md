@@ -42,9 +42,9 @@ I really enjoy learning new things and creating websites, as well as work in Wor
 📕 &nbsp; **Latest Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite или Webpack? А может Parcel? Rollup?](https://napli.ru/vite-%d0%b8%d0%bb%d0%b8-webpack-%d0%b0-%d0%bc%d0%be%d0%b6%d0%b5%d1%82-parcel-rollup/)
 - [Базовые вещи про GIT. Настройка и основные команды.](https://napli.ru/base-about-git/)
 - [Конвертация Notion в Obsidian](https://napli.ru/notion-to-obsidian/)
 - [FFmpeg. Незаменимый «швейцарский ножик» в вашем арсенале.](https://napli.ru/ffmpeg-multimedia-framework/)
 - [Установка и настройка Git, Node JS](https://napli.ru/gitnodejs/)
-- [Взаимодействие PHP и MySQL. Подключение к базе данных MySQL.](https://napli.ru/php-mysql-connecting-to-mysql-database/)
 <!-- BLOG-POST-LIST:END -->
