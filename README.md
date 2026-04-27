@@ -43,9 +43,9 @@ I really enjoy learning new things and creating websites, as well as work in Wor
 📕 &nbsp; **Latest Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема с запуском MongoDB на Linux Podman, Docker. SIGSEGV &lpar;Exit Code 139&rpar;.](https://napli.ru/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d1%81-%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba%d0%be%d0%bc-mongodb-%d0%bd%d0%b0-linux-podman-docker-sigsegv-exit-code-139/)
 - [Как задавать вопросы если хочешь получить на них хорошие ответы](https://napli.ru/how-to-ask-questions/)
 - [Vite или Webpack? А может Parcel? Rollup?](https://napli.ru/vite-webpack-parcel-rollup/)
 - [Базовые вещи про GIT. Настройка и основные команды.](https://napli.ru/base-about-git/)
 - [Конвертация Notion в Obsidian](https://napli.ru/notion-to-obsidian/)
-- [FFmpeg. Незаменимый «швейцарский ножик» в вашем арсенале.](https://napli.ru/ffmpeg-multimedia-framework/)
 <!-- BLOG-POST-LIST:END -->
